@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<head>
+  <title>
+    Checkboxes!
+  </title>
+</head>
+<body>
+<input type="checkbox">
+<input type="checkbox">
+<input type="checkbox">
+<input type="checkbox">
+<span><br></span>
+<input type="checkbox">
+<input type="checkbox">
+<input type="checkbox">
+<input type="checkbox">
+<span><br></span>
+<input type="checkbox">
+<input type="checkbox">
+<input type="checkbox">
+<input type="checkbox">
+<span><br></span>
+<input type="checkbox">
+<input type="checkbox">
+<input type="checkbox">
+<input type="checkbox">
+<span><br></span>
+</body>
